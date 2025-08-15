@@ -6,4 +6,4 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Projects
 - <a href = "https://github.com/josiahm1/Insider-Threat/blob/main/README.md">Insider Threat</a>
-- <a href = "https://github.com/josiahm1/SOC-Monitoring-Alert/blob/main/README.md">Monitoring Alert</a>
+- <a href = "https://github.com/josiahm1/SOC-Monitoring-Alert/main/README.md">Monitoring Alert</a>
