@@ -7,3 +7,4 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Projects
 - <a href = "https://github.com/josiahm1/Insider-Threat/blob/main/README.md">Insider Threat</a>
 - <a href = "https://github.com/josiahm1/SOC-Monitoring-Alert/tree/main">SOC Monitoring Alert</a>
+- <a href = "https://github.com/josiahm1/Personal-HoneyPot/tree/main">Honeypot Project</a>
